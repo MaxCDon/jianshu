@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "data":{
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 2,
+      "title": "旅行",
+      "imgUrl": "https://upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "摄影这件事情，我想坚持到老",
+      "desc": "我从没有想过会有一件事情能让自己坚持那么久，几年前简书刚起来的时候我跟随潮流开始写起来文章。自己给自己加了个作者的头衔，后来随着时间推移没有了最...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/2578032-a8357942c45a4672.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+
+    },{
+      "id": 2,
+      "title": "摄影这件事情，我想坚持到老",
+      "desc": "我从没有想过会有一件事情能让自己坚持那么久，几年前简书刚起来的时候我跟随潮流开始写起来文章。自己给自己加了个作者的头衔，后来随着时间推移没有了最...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/2578032-a8357942c45a4672.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+
+    },{
+      "id": 3,
+      "title": "摄影这件事情，我想坚持到老",
+      "desc": "我从没有想过会有一件事情能让自己坚持那么久，几年前简书刚起来的时候我跟随潮流开始写起来文章。自己给自己加了个作者的头衔，后来随着时间推移没有了最...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/2578032-a8357942c45a4672.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+
+    },{
+      "id": 4,
+      "title": "摄影这件事情，我想坚持到老",
+      "desc": "我从没有想过会有一件事情能让自己坚持那么久，几年前简书刚起来的时候我跟随潮流开始写起来文章。自己给自己加了个作者的头衔，后来随着时间推移没有了最...",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/2578032-a8357942c45a4672.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+
+    }],
+    "recommendList": [{
+      "id": 1 ,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+    },{
+      "id": 2,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    },{
+      "id": 3,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 4,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },{
+      "id": 5,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }]
+  }
+}
